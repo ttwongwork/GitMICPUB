@@ -8,3 +8,5 @@ View a [larger version](./media/intunearchitecture.svg) of the Intune architectu
 This image is a link [testing](./media/image.png)
 
 ![example image](./media/intunearchitecture.svg "An exemplary image")
+
+this file was updated in repo and should generate new version
