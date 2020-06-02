@@ -148,8 +148,9 @@ Here's a "line block" (note how whitespace is honored):
 
 and images can be specified like so:
 
-![example image](Images/funny-perfectly-timed-cat-photo-50__605.jpg "An exemplary image")
+![example image](funny-perfectly-timed-cat-photo-50__605.jpg "An exemplary image")
 [I'm a relative reference to a repository file](secondary.md)
+[Broken link to mardown](broken.md)
 
 Inline math equation: $\omega = d\phi / dt$. Display
 math should get its own line like so:
