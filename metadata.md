@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: Updated just the metadata asdf
+title: Updated just the metadata asdf only metadata was updated
 description: The Microsoft Intune App SDK for Android testing guide helps you test your Intune-managed Android app.
 keywords: SDK
 author: Erikre
