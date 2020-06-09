@@ -16,5 +16,6 @@
 
 **Online resources**:
 - Read some of the [common business problems that Intune helps solve](metadata.md).
+
 - Start with a [30-day trial of Intune](metadata.md).
 - Plan your [migration to Intune](metadata.md).
