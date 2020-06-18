@@ -209,3 +209,5 @@ But let's throw in a <b>tag</b>.
 ![GIT Icon](funny-perfectly-timed-cat-photo-50__605.jpg) **DELIVERABLE**: Once you have created and configured the resources, use the **Automation script** menu option in the **Resource Group** UI to generate and **Download** an Azure Resource Management script that documents the created resources. The downloaded file will be named similar to **ExportedTemplate-IoTCapstoneRG.zip**.
 
        * Rename this file to **ExportedTemplate-IoTCapstoneRG-WeatherStation-[YOUR STUDENT ID].zip** 
+       
+* ![GIT Icon](funny-perfectly-timed-cat-photo-50__605.jpg) **DELIVERABLE**: 
