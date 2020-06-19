@@ -19,3 +19,14 @@
 
 - Start with a [30-day trial of Intune](metadata.md).
 - Plan your [migration to Intune](metadata.md).
+
+7. **Competitive Threat**
+
+    In this new era, organizations know they will be disrupted if they don’t change and operate differently, but, they don’t always necessarily know where the threat will come from. It could come directly from within the industry, or adjacent industries due to the convergence that is happening across the marketplace. Or, the threat could even come from a new up-and-coming company.
+    
+**Competitive Threat** 
+
+    In this new era, organizations know they will be disrupted if they don’t change and operate differently, but, they don’t always necessarily know where the threat will come from. It could come directly from within the industry, or adjacent industries due to the convergence that is happening across the marketplace. Or, the threat could even come from a new up-and-coming company.
+   
+**Competitive Threat** 
+    In this new era, organizations know they will be disrupted if they don’t change and operate differently, but, they don’t always necessarily know where the threat will come from. It could come directly from within the industry, or adjacent industries due to the convergence that is happening across the marketplace. Or, the threat could even come from a new up-and-coming company.
