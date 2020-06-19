@@ -1,4 +1,4 @@
-# GitMICPUB !!! New version should be created!
+# GitMICPUB !!! New version should be created! updated via commit
 
 - [Set rules on devices to allow access to your organization resources](metadata.md)
 - [Common ways to use Conditional Access with Intune](./metadata.md)
