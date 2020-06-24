@@ -211,3 +211,6 @@ But let's throw in a <b>tag</b>.
        * Rename this file to **ExportedTemplate-IoTCapstoneRG-WeatherStation-[YOUR STUDENT ID].zip** 
        
 * ![GIT Icon](funny-perfectly-timed-cat-photo-50__605.jpg) **DELIVERABLE**: 
+[reference all the files](Untitled.mov)
+[reference all the files](secondary.md)
+[reference all the files](funny-perfectly-timed-cat-photo-50__605.jpg.zip)
