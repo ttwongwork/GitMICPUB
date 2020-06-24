@@ -28,7 +28,7 @@ ms.custom:
 ms.collection: M365-identity-device-management
 ---
 
-Content has been updated are updated! updated content 6/24
+Content has been updated are updated! updated content 6/24 updating content some more
 # Microsoft Intune App SDK for Android testing guide
 
 This guide helps developers test their Intune-managed Android apps.  
