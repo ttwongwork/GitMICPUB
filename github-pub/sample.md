@@ -1,6 +1,8 @@
-An h1 header
+An h1 header updated!
 ============
 
+
+![GIT Icon](funny-perfectly-timed-cat-photo-50__605.jpg)
 Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
