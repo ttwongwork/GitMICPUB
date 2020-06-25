@@ -1,4 +1,4 @@
-# GitMICPUB !!! New version should be created! updated via commit
+# GitMICPUB !!! New version should be created! updated via commit !!!!
 
 - [Set rules on devices to allow access to your organization resources](metadata.md)
 - [Common ways to use Conditional Access with Intune](./metadata.md)
@@ -26,7 +26,7 @@
     
 **Competitive Threat** 
 
-    In this new era, organizations know they will be disrupted if they don’t change and operate differently, but, they don’t always necessarily know where the threat will come from. It could come directly from within the industry, or adjacent industries due to the convergence that is happening across the marketplace. Or, the threat could even come from a new up-and-coming company.
+    In this new era, organizations know they will be disrupted if they don’t change and operate differently, but, they don’t always necessarily know where the threat will come from. 
    
 **Competitive Threat** 
     In this new era, organizations know they will be disrupted if they don’t change and operate differently, but, they don’t always necessarily know where the threat will come from. It could come directly from within the industry, or adjacent industries due to the convergence that is happening across the marketplace. Or, the threat could even come from a new up-and-coming company.
