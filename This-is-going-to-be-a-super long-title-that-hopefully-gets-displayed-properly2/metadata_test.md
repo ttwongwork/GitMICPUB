@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: asdfasfasdf
+title: asdfasfasdf meta
 description: The Microsoft Intune App SDK for Android testing guide helps you test your Intune-managed Android app.
 keywords: SDK updated
 author: Erikre
@@ -42,7 +42,7 @@ You can create new accounts with or without pre-generated data. To create a new 
 5. [Assign licenses](../fundamentals/licenses-assign.md) as appropriate for your testing.
 
 
-## Azure portal policy configuration
+## Azure portal policy configuration and content
 [Create and assign app protection policies](../apps/app-protection-policies.md) in the [Azure portal's Intune blade](https://portal.azure.com/?feature.customportal=false#blade/Microsoft_Intune_Apps/MainMenu/14/selectedMenuItem/Overview). You can also create and assign your [app configuration policy](../apps/app-configuration-policies-overview.md) in the Intune blade.
 
 > [!NOTE]
