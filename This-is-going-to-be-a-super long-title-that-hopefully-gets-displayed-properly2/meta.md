@@ -2,7 +2,7 @@
 # required metadata
 
 title: meta.md
-description: The Microsoft Intune App SDK for Android testing guide helps you test your Intune-managed Android app.
+description: The Microsoft Intune App SDK
 keywords: SDK updated
 author: Erikre
 ms.author: erikre
