@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: meta.md
+title: meta.md Up
 description: The Microsoft Intune App SDK
 keywords: SDK updated
 author: Erikre
@@ -28,7 +28,7 @@ ms.custom:
 ms.collection: M365-identity-device-management
 ---
 
-# Microsoft Intune App SDK for Android testing guide
+# Microsoft Intune App SDK for Android testing guide asdf
 
 This guide helps developers test their Intune-managed Android apps.  
 
