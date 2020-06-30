@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: asdfasdfasdf
+title: metadata only
 description: The Microsoft Intune App SDK
 keywords: SDK updated
 author: Erikre
