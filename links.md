@@ -1,7 +1,7 @@
 Should work
 
 ![GIT Icon](/This-is-going-to-be-a-super%20long-title-that-hopefully-gets-displayed-properly2/cat.png)
-![GIT Icon](/This-is-going-to-be-a-super%20long-title-that-hopefully-gets-displayed-properly2\\cat1.png)
+![GIT Icon](/This-is-going-to-be-a-super%20long-title-that-hopefully-gets-displayed-properly2\\cat7.png)
 ![GIT Icon](\\This-is-going-to-be-a-super%20long-title-that-hopefully-gets-displayed-properly2\\cat2.png)
 ![GIT Icon](/This-is-going-to-be-a-super%20long-title-that-hopefully-gets-displayed-properly2/cat6.png)
 ![GIT Icon](/github-pub/media\\cat.png)
