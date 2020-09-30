@@ -12,7 +12,7 @@ ms.workload: infrastructure-services
 ms.date: 02/26/2019
 ms.author: rohink
 ---
-
+NON META UPDATE
 # GitMICPUB
 - [Set rules on devices to allow access to your organization resources](metadata.md)
 - [Common ways to use Conditional Access with Intune](./metadata.md)
